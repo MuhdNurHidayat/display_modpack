@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Muhammad Nur Hidayat <muhdnurhidayat96@yahoo.com>, 2017.
+# Yaya (Nurul Azeera Hidayah @ Muhammad Nur Hidayat) <translation@mnh48.moe>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: Display Modpack\n"

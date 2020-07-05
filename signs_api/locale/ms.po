@@ -4,10 +4,10 @@
 # Muhammad Nur Hidayat <muhdnurhidayat96@yahoo.com>, 2017.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-01 05:56+0100\n"
-"PO-Revision-Date: 2017-08-27 15:50+0800\n"
+"PO-Revision-Date: 2020-07-05 11:11+0000\n"
 "Last-Translator: Muhammad Nur Hidayat <muhdnurhidayat96@yahoo.com>\n"
 "Language-Team: Malay <muhdnurhidayat96@yahoo.com>\n"
 "Language: ms\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Vé 0.1.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #: common.lua
 msgid "Text"
@@ -28,7 +28,7 @@ msgstr "Tulis"
 #: common.lua
 #, lua-format
 msgid " (first %s lines only)"
-msgstr "( %s baris pertama sahaja )"
+msgstr " (%s baris pertama sahaja)"
 
 #~ msgid "Title"
 #~ msgstr "Tajuk"
